@@ -1,0 +1,17 @@
+# Core
+numpy
+scipy
+matplotlib
+pandas
+
+# Deep learning
+torch
+torchvision
+transformers      # provides facebook/vit-mae-base for the MAE-ViT initialisation
+einops
+
+# Utilities
+tqdm
+tabulate
+omegaconf
+GPUtil            # GPU auto-selection (--gpu auto)
